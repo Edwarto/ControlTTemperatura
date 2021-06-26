@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MonitoreoEstadoAmbiental</string>
+    <string name="title_home">Home</string>
+    <string name="title_sound">Sonido</string>
+    <string name="title_humity">Humedad</string>
+    <string name="title_temperature">Temperatura</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

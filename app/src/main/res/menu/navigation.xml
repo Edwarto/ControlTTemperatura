@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_temperature"
+        android:icon="@drawable/ic_temperature"
+        android:title="@string/title_temperature" />
+
+    <item
+        android:id="@+id/navigation_humity"
+        android:icon="@drawable/ic_humity"
+        android:title="@string/title_humity" />
+
+    <item
+        android:id="@+id/navigation_sounds"
+        android:icon="@drawable/ic_sound"
+        android:title="@string/title_sound" />
+
+</menu>

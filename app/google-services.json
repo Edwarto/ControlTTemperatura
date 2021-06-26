@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "91937824222",
+    "firebase_url": "https://server-env-monitoring-default-rtdb.firebaseio.com",
+    "project_id": "server-env-monitoring",
+    "storage_bucket": "server-env-monitoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91937824222:android:14cbed316dfc210687914f",
+        "android_client_info": {
+          "package_name": "com.example.monitoreoestadoambiental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91937824222-je5bo9sqs8jc6geh3v4jseef19cdffte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpZBM4qKc9hI96tYxZQXwSX-8vvcXcUac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91937824222-je5bo9sqs8jc6geh3v4jseef19cdffte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
